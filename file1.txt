@@ -1,2 +1,10 @@
 adding info from dev1 branch
+<<<<<<< Updated upstream
 adding some info from dev1 branch
+=======
+<<<<<<< HEAD
+adding some info from master branch
+=======
+adding some info from dev1 branch
+>>>>>>> dev1
+>>>>>>> Stashed changes
